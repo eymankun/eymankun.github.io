@@ -1,0 +1,10 @@
+body {
+  /*reset all margin and padding*/
+  margin: 0px;
+  padding: 0px;
+  background-color: #fff9ee;
+}
+
+footer {
+  background-color: #4f4f4f;
+}
