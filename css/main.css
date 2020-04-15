@@ -5,6 +5,10 @@ body {
   background-color: #fff9ee;
 }
 
+.about {
+  margin-bottom: 50px;
+}
+
 footer {
   background-color: #4f4f4f;
   position: fixed;
@@ -13,8 +17,5 @@ footer {
   width: 100%;
   color: white;
   text-align: center;
-}
-
-.footer bd-footer-lg li a {
-  display: inline;
+  margin-top: 50px;
 }
