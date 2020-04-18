@@ -23,3 +23,10 @@ footer {
   text-align: center;
   margin-top: 50px;
 }
+
+.back-to-top {
+  position: fix;
+  bottom: 75px;
+  right: 25px;
+  display: none;
+}
