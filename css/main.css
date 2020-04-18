@@ -6,12 +6,16 @@ body {
 }
 
 .about {
+  margin-bottom: 0px;
+}
+
+.portfolio {
   margin-bottom: 50px;
 }
 
 footer {
   background-color: #4f4f4f;
-  position: fixed;
+  position: initial;
   bottom: 0px;
   left: 0px;
   width: 100%;
